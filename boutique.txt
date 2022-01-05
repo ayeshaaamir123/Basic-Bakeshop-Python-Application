@@ -1,0 +1,2 @@
+['stitched clothes', 49]
+['unstitched clothes', 43]
